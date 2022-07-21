@@ -11,7 +11,7 @@ import pages.common.HomePage;
 public class BaseTests {
     public static WebDriver driver;
     public String baseURL = "http://automationpractice.com/index.php";
-    HomePage homePage = new HomePage(driver);
+    public HomePage homePage;
 
     @BeforeClass
     public static void initWebDriver() {
@@ -22,6 +22,7 @@ public class BaseTests {
 
     @Test
     public void testOne() throws InterruptedException {
+        homePage = new HomePage(driver);
         homePage.navigateToHomePage(baseURL);
         Thread.sleep(2000);
         //  homePage.inputSearchValue("dress");

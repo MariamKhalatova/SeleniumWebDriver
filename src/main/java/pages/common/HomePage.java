@@ -24,7 +24,6 @@ import java.util.List;
         //methods
         //getter/setters
 
-
         public By getSearchIcon() {
             return searchIcon;
         }
