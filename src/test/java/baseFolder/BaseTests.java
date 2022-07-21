@@ -25,8 +25,6 @@ public class BaseTests {
         homePage.navigateToHomePage(baseURL);
         Thread.sleep(2000);
         //  homePage.inputSearchValue("dress");
-
-
     }
 
 
