@@ -17,20 +17,20 @@ body:
     id: expected
     attributes:
       label: What was the expected result?
-      placeholder: I expected this to happen
+      placeholder: I expected this to happen (text and/or manifest file)
     validations:
       required: true
   - type: textarea
     id: actual
     attributes:
       label: What was the actual result?
-      placeholder: Received this result (text and/or manifest)
+      placeholder: Received this result (text and/or manifest file)
     validations:
       required: true
   - type: textarea
     id: additionalDetails
     attributes:
-      label: Put here any screenshots or videos (optional)
+      label: Put here any screenshots or videos or any additional details (optional)
   - type: markdown
     attributes:
       value: |
