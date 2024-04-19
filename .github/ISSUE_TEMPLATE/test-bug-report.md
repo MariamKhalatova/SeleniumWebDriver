@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!--- Please provide EITHER your stakblitz link, replicating the issue,  -->
+<!--- Please provide EITHER your stakblitz link, replicating the issue -->
 
 ## Stackblitz link
  <!--- containing the manifest file that generated the error,  links to any code (e.g. your own plugin code), it must be available online and runtime information such as OS, node version, package.json, IF version -->
