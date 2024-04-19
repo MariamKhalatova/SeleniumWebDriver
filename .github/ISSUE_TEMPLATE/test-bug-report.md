@@ -10,7 +10,7 @@ assignees: ''
 <!--- Please provide EITHER your Stackblitz link, replicating the issue -->
 
 ## Stackblitz link
- <!--- containing the manifest file that generated the error,  links to any code (e.g. your own plugin code), it must be available online and runtime information such as OS, node version, package.json, IF version -->
+<!--- containing the manifest file that generated the error,  links to any code (e.g. your plugin code), which must be available online, and runtime information such as OS, node version, package.json, IF version -->
 
 
 <!---OR the following info -->
@@ -28,7 +28,7 @@ assignees: ''
 
 
 ## Steps to Reproduce
-<!--- set of specific instructions to  reproduce the bug . Include code, if relevant -->
+<!--- a set of specific instructions to reproduce the bug. Include code, if relevant -->
 1.
 2.
 3.
