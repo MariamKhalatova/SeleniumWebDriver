@@ -1,19 +1,7 @@
 ---
-name: Test-bug-report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: Bug report
 about: Create a report to help us improve
-title: ''
 labels: 'bug'
-assignees: ''
-
 ---
 <!--- Please provide us the following info -->
 
@@ -31,7 +19,7 @@ assignees: ''
 
 ##  And As Additional Info
 ### EITHER a Stackblitz link
-<!---  replicating the issue -->
+<!--- Replicating the issue -->
 
 ### OR Manifest File That Generated the Error
 
