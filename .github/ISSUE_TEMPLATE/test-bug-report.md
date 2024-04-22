@@ -29,13 +29,14 @@ assignees: ''
 ## Steps to Reproduce
 <!--- A set of specific instructions to reproduce the bug. Include code, if relevant -->
 
+##  And As Additional Info
+### EITHER a Stackblitz link
+<!---  replicating the issue -->
 
-## EITHER a Stackblitz link, replicating the issue 
+### OR Manifest File That Generated the Error
 
-## OR Manifest File That Generated the Error
-
-## Links to Any Additional Code
+### Links to Any Additional Code
 <!--- E.g. your plugin code, it must be available online -->
 
-## Runtime Info
+### Runtime Info
 <!--- Such as OS, node version, package.json, IF version -->
