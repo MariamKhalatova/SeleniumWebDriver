@@ -7,34 +7,35 @@ assignees: ''
 
 ---
 
-<!--- Please provide EITHER your Stackblitz link, replicating the issue -->
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: 'bug'
+assignees: ''
 
-## Stackblitz link
-<!--- containing the manifest file that generated the error,  links to any code (e.g. your plugin code), which must be available online, and runtime information such as OS, node version, package.json, IF version -->
+---
+<!--- Please provide us the following info -->
 
-
-<!---OR the following info -->
-
-## Description of the Error
+## Descriotion of the Error
 <!--- Tell us what happened -->
-
 
 ## Expected Behaviour
 <!--- Tell us what should happen -->
 
-
 ## Actual Behaviour
 <!--- Tell us what happens instead of the expected behavior -->
 
-
 ## Steps to Reproduce
-<!--- a set of specific instructions to reproduce the bug. Include code, if relevant -->
-1.
-2.
-3.
-
-## Manifest File That Generated the Error
+<!--- A set of specific instructions to reproduce the bug. Include code, if relevant -->
 
 
-## Runtime Information
-<!--- OS, node version, package.json, IF version -->
+## EITHER a Stackblitz link, replicating the issue 
+
+## OR Manifest File That Generated the Error
+
+## Links to Any Additional Code
+<!--- E.g. your plugin code, it must be available online -->
+
+## Runtime Info
+<!--- Such as OS, node version, package.json, IF version -->
